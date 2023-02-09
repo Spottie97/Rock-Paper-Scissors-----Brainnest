@@ -1,4 +1,4 @@
-# JS-CSS-HTML-----Brainnest
+# Rock,Paper,Scissors-----Brainnest
 This is the final product of my previous <a href="https://github.com/Spottie97/JS-Assignment-----Brainnest">assignment</a>.
 
 ## What did I add

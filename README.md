@@ -1,5 +1,5 @@
 # Rock,Paper,Scissors-----Brainnest
-This is the final product of my previous <a href="https://github.com/Spottie97/JS-Assignment-----Brainnest">assignment</a>.
+This is the final product of my previous <a href="https://github.com/Spottie97/JS-Assignment-----Brainnest">assignment</a>. You can access and test out the game <a href="https://spottie97.github.io/Rock-Paper-Scissors-----Brainnest/">here</a>
 
 ## What did I add
 - I added a UI so instead of using text to play the game you now click buttons.
